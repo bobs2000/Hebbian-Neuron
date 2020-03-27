@@ -12,8 +12,8 @@ To do this, I have created two classes, one is the hebbianNeuron(), while the ot
 
 
 ## Each Hebbian Neuron: 
-~~Each hebbian neuron when initialized will generate random connections to the previous layer, and store a pattern of activation which the neuron will recognize. 
+~~Each hebbian neuron when initialized will generate random connections to the previous layer, and store a pattern of activation which the neuron will recognize. ~~ 
 
-~~The way the neuron will recognize the pattern of activation is through a simple MSE function. If the input pattern and the stored pattern produces less than a specified amount of error the neuron will output a value of 1.0 * neuron weight.
+~~The way the neuron will recognize the pattern of activation is through a simple MSE function. If the input pattern and the stored pattern produces less than a specified amount of error the neuron will output a value of 1.0 * neuron weight.~~ 
 
 ## Note: I have improved the above model as my thoughts on this model has changed. 
