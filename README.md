@@ -6,7 +6,7 @@ The following project is an attempt to create a artificial neural network that c
 My goal for this project is threefold: 
  1. To create a network that can be infinitely grown to learn new patterns of data without re-training the entire network. 
  2. To create a network that has the ability to track the age of each learned pattern. 
- 3. To be biologically plausible by not requiring backpropagation, ~~or gradient descent.~~ with a gradient that travels through the entire network.
+ 3. To be biologically plausible by not requiring ~~or gradient descent.~~ backpropagation 
 
 To do this, I have created two classes, one is the hebbianNeuron(), while the other is hebbianLayer() which encapsulates the hebbianNeuron class. 
 
